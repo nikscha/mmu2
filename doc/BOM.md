@@ -45,6 +45,7 @@ This is a starter list of stuff you will need to complete this MMU2 home brew cl
    https://www.aliexpress.com/item/Prusa-i3-mk3-mk2-5-Multi-materials-2-0-3d-printer-motor-kit-MMU2-0/32923672790.html?spm=a2g0s.9042311.0.0.162b4c4dO5RBTY   (I have them on order but have not received them yet for testing)
 
 ## Other Stuff
+* 1   most of what you need is in this kit from alliexpress, shipping will take some time tho (https://www.aliexpress.com/item/32966965868.html?spm=a2g0o.detail.1000023.6.f238599eqJBLIz)
 * 5   mk8 hobbed gears (https://www.amazon.com/gp/product/B07CJPP7R7/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
 * 2   100mm x 5mm steel shafts (https://www.amazon.com/gp/product/B01B27MJC6/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1)
      (these shafts are used to make your 16mm spindles for the bearings,  you can also order 16mm x 5mm spindles from McMcaster-Carr,
